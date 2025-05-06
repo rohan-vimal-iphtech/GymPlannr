@@ -81,7 +81,8 @@ Color-filled area under the line for emphasis
 Rest days display as 0 minutes
 
 🖼️ Sample Meme
-[![Meme](https://i.imgflip.com/9q8qrm.gif)](https://imgflip.com/gif/9q8qrm)
+![Funny GIF](./assets/funny.gif)
+
 "One more rep… because GymPlanr told me to."
 
 📁 Folder Structure (Overview)
