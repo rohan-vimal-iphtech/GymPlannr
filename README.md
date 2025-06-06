@@ -1,6 +1,4 @@
-Certainly! Here's a professionally formatted and detailed `README.md` for your **GymPlanr** project, incorporating the GIFs and information you've provided:
 
----
 
 # 🏋️‍♂️ GymPlanr
 
@@ -131,6 +129,3 @@ The app utilizes a custom Redux middleware to sync workout data to `localStorage
   * [ExerciseDB API](https://exercisedb.p.rapidapi.com/)
   * [API Ninjas - Exercises](https://api-ninjas.com/api/exercises)
 
----
-
-Feel free to customize this `README.md` further to match your project's specific details or branding. Let me know if you need assistance with any other aspect of your project!
